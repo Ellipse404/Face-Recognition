@@ -1,0 +1,11 @@
+1. Pythob 3.0 or above version should be installed in system.
+2. installed cv2 module
+      command : pip install cv2
+3. installed numpy module
+      command : pip install numpy
+4. installed os module
+       command : pip install os
+5. Haarcascade Frontal Face Algorithm should be placed in thr same directory where         the code is. 
+6. you need a database of seperate persons of proccessed in same way as done here and     should be placed in the same directory.     
+   For creating Database check it out :
+       link : https://github.com/Ellipse404/Face-Detection
